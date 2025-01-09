@@ -1,5 +1,5 @@
 # Yo! fellas, I’m @MISTSKETCH 
-----------------------------------------------------------------------------------------------------------------------------------------
+
 ### What ever the reason im here is because i'd like to introduce myself.
 -Im a puppet model:smol Herta No.:2236 Serial:Stfu21a7
 -Im currently new to tech i wish you can teach me your knowledge i'm currenly want to make something with git to use in "my PORTFOLIO"
