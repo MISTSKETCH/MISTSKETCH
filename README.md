@@ -3,7 +3,7 @@
 ### What ever the reason im here is because i'd like to introduce myself.
 
 -Im a puppet <br/>
-<h3>model:smol Herta No.:2236 Serial:Stfu21a7 <h3\><br\>
+<h3>model:smol Herta No.:2236 Cerial:Stfu21a7 <h3\><br\>
 
 ---
 -Im currently new to tech i wish you can teach me your knowledge i'm currenly want to make something with git to use in "my PORTFOLIO"
